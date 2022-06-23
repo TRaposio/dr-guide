@@ -1,0 +1,40 @@
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F D2 R2 B2 D2 R2 B' F' L2 U' F2 U2 L D U' F' L' D' R2 U R' U' F
+FS
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F L2 B2 R2 U2 F D2 B' L2 F' D2 U B L' U2 F' R2 B2 U' R' D R' U' F
+SS
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F U' F2 U' F2 L2 U' B2 D2 F U2 B' D' B D' F2 R' U' L' B U2 R' U' F
+PDR1
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F R2 B' R2 B U2 B2 F' R2 B2 U B U2 R D B' U B2 L2 F L' F2 R' U' F
+CO1
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 F R' F2 U' L F R F' D B' D' L2 B2 U F2 R2 U' L2 B2 U B2
+CO2
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F U R2 D R2 B2 D' B2 L' D2 L2 R D U L2 F' U2 B L' B R' U' F
+CO3
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F R2 D' L2 U' F2 R2 F2 L2 U' F2 D F L2 U2 R F' D2 F U' L D U R' U' F
+SH
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 L' U B' D2 F' D' F2 R L2 D' F2 R2 D2 F2 L2 U' L2 D2 B2
+EF
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F D' B2 R2 U' F2 D' F2 U B2 R2 F2 L' B F' R2 D L F2 U R' D2 R' U' F
+NS
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F D' L2 B2 R2 B2 U F2 D U F2 R2 F D R2 B L D' B2 R' D' F2 R' U' F
+BB
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F D' F2 R2 F2 L2 D' U2 B2 U' B U2 R' U' L' F L F2 R' B R' U' F
+HTR1
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F  D' F2 U' R2 D  R2 U  L2 R  F2 U' B  L  R  U  L2 F2 U  R2 U' R' U' F
+HTR3
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F L2 F2 L2 U F2 D2 L2 D2 U' L2 B' U L' R U2 F D U2 L' B R U' R' U' F
+EE
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F D2 L2 F R2 U2 R2 B D2 L B2 D' B2 L' R' B D2 B U2 L U2 R' U' F 
+SE
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F L2 U2 L2 B2 F' L2 R2 U2 B F2 R U L2 R2 B' L2 F D' F R F' R' U' F
+SE2
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F B' D' F' D F2 L2 F2 U' B2 R2 D' R2 U' L R' B D R B U2 R' U' F
+SE3
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F L2 D R2 U2 R B' L2 U' L D L2 D L2 D L2 F2 U L2 U F2 R' U' F
+SE4
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F U F2 R2 F2 D L2 U' F2 D2 B2 R' D L2 F' D' L2 R2 U' L2 D B2 R' U' F
+SE5
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F U2 R2 D' F2 D' L2 U' F2 L F' D' R' U' R2 F L2 B F R2 B2 R' U' F
+SE6
+http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&alg= y2 z2 R' U' F U R2 B2 D' L2 F2 D U' F2 R' B D' F' U' L R D F2 U F' R' U' F
+NC
