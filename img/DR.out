@@ -1,0 +1,28 @@
+\BOOKMARK [0][-]{chapter.1}{Part one: A Good EO}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Part Two: Orienting Corners and Getting Good Edges}{}% 2
+\BOOKMARK [1][-]{section.2.1}{DR Triggers}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Partial Domino Reduction}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.2.1}{PDR in which you have CO and EO}{section.2.2}% 5
+\BOOKMARK [2][-]{subsection.2.2.2}{PDR in which you already have E-layer and EO}{section.2.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.3}{PDR in which you already have CO and E-layer}{section.2.2}% 7
+\BOOKMARK [0][-]{chapter.3}{Part Three: Alternative Approaches}{}% 8
+\BOOKMARK [1][-]{section.3.1}{Orient First}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.2}{Sledge/Hedge DR}{chapter.3}% 10
+\BOOKMARK [1][-]{section.3.3}{E Slice First}{chapter.3}% 11
+\BOOKMARK [0][-]{chapter.4}{Part Four: Solving Methods}{}% 12
+\BOOKMARK [1][-]{section.4.1}{Method 0 \204 Normal Skeletons \(3e3c, 4c, 5c, 4e3c exc.\)}{chapter.4}% 13
+\BOOKMARK [1][-]{section.4.2}{Method 1 \205 Corners First}{chapter.4}% 14
+\BOOKMARK [1][-]{section.4.3}{Method 2 - Block building and linear endings}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.4}{Method 3 - HTR solves}{chapter.4}% 16
+\BOOKMARK [0][-]{chapter.5}{Part Five: Tips \046 Tricks}{}% 17
+\BOOKMARK [1][-]{section.5.1}{Inserting Corners}{chapter.5}% 18
+\BOOKMARK [1][-]{section.5.2}{Solving Edges}{chapter.5}% 19
+\BOOKMARK [1][-]{section.5.3}{Free Slice}{chapter.5}% 20
+\BOOKMARK [1][-]{section.5.4}{Labor Limae}{chapter.5}% 21
+\BOOKMARK [2][-]{subsection.5.4.1}{Replace and Improve}{section.5.4}% 22
+\BOOKMARK [2][-]{subsection.5.4.2}{Slice insertions}{section.5.4}% 23
+\BOOKMARK [2][-]{subsection.5.4.3}{Inserting algorithms}{section.5.4}% 24
+\BOOKMARK [1][-]{section.5.5}{Centers with NISS}{chapter.5}% 25
+\BOOKMARK [0][-]{chapter.6}{Some final words}{}% 26
+\BOOKMARK [1][-]{section.6.1}{The Authors}{chapter.6}% 27
+\BOOKMARK [1][-]{section.6.2}{Sebastiano Tronto}{chapter.6}% 28
